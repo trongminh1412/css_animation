@@ -27,6 +27,7 @@ body {
   border-top: 4px solid #24ecff;
   animation: animate 4s linear infinite;
 }
+/* keyframes animation */
 @keyframes animate {
   0% {
     transform: rotate(0deg);
@@ -67,6 +68,7 @@ body {
   box-shadow: 0 0 0 5px #93ff2d33, 0 0 0 10px #93ff2d22, 0 0 0 20px #93ff2d11,
     0 0 20px #93ff2d, 0 0 50px #93ff2d;
 }
+/* keyframes animation */
 @keyframes animate2 {
   0% {
     transform: rotate(360deg);
